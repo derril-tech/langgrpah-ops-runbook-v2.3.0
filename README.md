@@ -2,8 +2,6 @@
 **Powered by LangGraph + OpenAI**
 
 
-🌐 **[View Live Application](https://langgrpah-ops-runbook.vercel.app)**
-
 > **Turn chaotic incidents into a deterministic runbook flow. Classify incidents, retrieve runbooks, generate mitigation steps, and summarize risk—all in one view, in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -251,7 +249,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **⭐ Star this repo if you find it useful!**
 
-[Live Demo](https://langgrpah-ops-runbook.vercel.app) 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
 </div>
